@@ -5,6 +5,7 @@
 **b. On Windows**
 1. Install Nodejs
 - Go to [Nodejs website](https://nodejs.org/en/download) and download the stable version.
+
 [nodejs](https://github.com/LifnaJos/truffle_experiment/blob/main/images/nodejs_installation.jpg)
 
 2. Install Truffle
