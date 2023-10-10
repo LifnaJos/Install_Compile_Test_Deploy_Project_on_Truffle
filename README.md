@@ -1,4 +1,4 @@
-## Step - 1 : Installation of Truffle
+## Step - 1: Installation of Truffle
 **a. On Ubuntu 22.04 LTS**
 - Follow the steps to install Truffle as per the [tutorial](https://github.com/LifnaJos/installing-truffle-on-ubuntu-22.04#steps-for-installing-truffle-on-ubuntu-2204-lts)
 
@@ -6,7 +6,7 @@
 1. Install Nodejs
 - Go to [Nodejs website](https://nodejs.org/en/download) and download the stable version.
 
-[nodejs](https://github.com/LifnaJos/truffle_experiment/blob/main/images/nodejs_installation.jpg)
+[nodejs](https://github.com/LifnaJos/Install_Compile_Test_Deply_Project_on_Truffle/blob/main/images/nodejs_installation.jpg)
 
 2. Install Truffle
 - On the command prompt, check the version of nodejs ```node -v```
