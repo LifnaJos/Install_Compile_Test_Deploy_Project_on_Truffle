@@ -32,14 +32,14 @@
 ![solidity](https://github.com/LifnaJos/truffle_experiment/blob/main/images/vs_solidity_install.jpg)
 
 ## Step - 2: Create or Unbox a Truffle project 
-1a. Unbox an existing Truffle Project - MetaCoin
+### 1 (a). Unbox an existing Truffle Project - MetaCoin
 - On the Terminal :  ```mkdir MetaCoin```
 - Go to the folder: ```cd MetaCoin```
 - Unbox the Truffle Project : ```truffle unbox metacoin```
 
 ![unbox](https://github.com/LifnaJos/Install_Compile_Test_Deply_Project_on_Truffle/blob/main/images/install_metacoin_project_truffle_unbox.jpg)
 
-1b. To create a bare project that doesn’t come with any smart contract or boilerplate code, type:  ```truffle init```
+### 1 (b) To create a bare project that doesn’t come with any smart contract or boilerplate code, type:  ```truffle init```
 
 - The following directory structure is created :
 ```
