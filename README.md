@@ -97,6 +97,31 @@
 
 ![migrate](https://github.com/LifnaJos/Install_Compile_Test_Deply_Project_on_Truffle/blob/main/images/truffle_migrate_2.jpg)
 
+- On the Ganache Environment - Account Tab: 5 transactions are reported corresponding to the deployment
+
+![ganache](https://github.com/LifnaJos/Install_Compile_Test_Deploy_Project_on_Truffle/blob/main/images/truffle_project_ganache_deploy_1.jpg)
+
+- On the Ganache Environment - Blocks tab, 5 blocks are created in the Ganache environment
+
+![ganache](https://github.com/LifnaJos/Install_Compile_Test_Deploy_Project_on_Truffle/blob/main/images/truffle_project_ganache_deploy.jpg)
+
+- On the Ganache Environment - Transactions Tab: Contract creation details are listed
+
+![ganache](https://github.com/LifnaJos/Install_Compile_Test_Deploy_Project_on_Truffle/blob/main/images/truffle_project_ganache_deploy_2.jpg)
+
+- On the Ganache Environment - Contracts Tab: Contract deployment details are listed
+
+![ganache](https://github.com/LifnaJos/Install_Compile_Test_Deploy_Project_on_Truffle/blob/main/images/truffle_project_ganache_deploy_3.jpg)
+
+- - On Ganache Environment - Events Tab: Contract registered event is reported
+![ganache](https://github.com/LifnaJos/Install_Compile_Test_Deploy_Project_on_Truffle/blob/main/images/truffle_project_ganache_deploy_4.jpg)
+
+![ganache]()
+
+![ganache]()
+
+![ganache]()
+
 ## Acknowledgements
 * [NodeJS](https://nodejs.org/en/download)
 * [VS Code](https://code.visualstudio.com/Download)
