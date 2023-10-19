@@ -116,10 +116,10 @@
 - On Ganache Environment - Events Tab: Contract registered event is reported
 ![ganache](https://github.com/LifnaJos/Install_Compile_Test_Deploy_Project_on_Truffle/blob/main/images/truffle_project_ganache_deploy_4.jpg)
 
-## Step - 5 b: DDeploy Project via Truffle Dashboard
+## Step - 5 b: Deploy Project via Truffle Dashboard
 1. Run the command ```truffle dashboard``` on the VSCode Terminal
 
-![truffle_dashboard]()
+![truffle_dashboard](https://github.com/LifnaJos/Install_Compile_Test_Deploy_Truffle_Project_on_Ganache/blob/main/images/Screenshot%20from%202023-10-19%2020-33-27.png)
 
 - Truffle Dashboard is running on ```http://localhost:24012/rpc```
 
