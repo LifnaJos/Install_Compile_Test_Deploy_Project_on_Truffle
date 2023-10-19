@@ -1,11 +1,23 @@
-1. Installation of Truffle
-2. Create or Unbox a Truffle project 
-3. Compile a Truffle Project
-4. Test the Smart Contracts in Truffle Project
-5. Deploy the Truffle Project
+[1. Installation of Truffle](https://github.com/LifnaJos/Install_Compile_Test_Deploy_Truffle_Project_on_Ganache/tree/main#step---1-installation-of-truffle)
+
+- a. On Ubuntu
+- b. On Windows
+
+[2. Create or Unbox a Truffle project](https://github.com/LifnaJos/Install_Compile_Test_Deploy_Truffle_Project_on_Ganache/tree/main#step---2-create-or-unbox-a-truffle-project)
+
+- a. Unbox an existing Truffle Project
+- b. Create a bare Truffle Project
+
+[3. Compile a Truffle Project](https://github.com/LifnaJos/Install_Compile_Test_Deploy_Truffle_Project_on_Ganache/tree/main#step---3--compile-a-truffle-project)
+
+[4. Test the Smart Contracts in Truffle Project](https://github.com/LifnaJos/Install_Compile_Test_Deploy_Truffle_Project_on_Ganache/tree/main#step---4--test-the-smart-contracts)
+
+[5. Deploy the Truffle Project](https://github.com/LifnaJos/Install_Compile_Test_Deploy_Truffle_Project_on_Ganache/tree/main#step---5--deploy-truffle-project)
+
 - a. Deploy via Truffle Command Line Interface
 - b. Deploy via Truffle Dashboard
-=======================
+
+==============================================
 
 ## Step - 1: Installation of Truffle
 **a. On Ubuntu 22.04 LTS**
