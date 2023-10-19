@@ -1,3 +1,12 @@
+1. Installation of Truffle
+2. Create or Unbox a Truffle project 
+3. Compile a Truffle Project
+4. Test the Smart Contracts in Truffle Project
+5. Deploy the Truffle Project
+- a. Deploy via Truffle Command Line Interface
+- b. Deploy via Truffle Dashboard
+=======================
+
 ## Step - 1: Installation of Truffle
 **a. On Ubuntu 22.04 LTS**
 - Follow the steps to install Truffle as per the [tutorial](https://github.com/LifnaJos/installing-truffle-on-ubuntu-22.04#steps-for-installing-truffle-on-ubuntu-2204-lts)
@@ -32,14 +41,14 @@
 ![solidity](https://github.com/LifnaJos/truffle_experiment/blob/main/images/vs_solidity_install.jpg)
 
 ## Step - 2: Create or Unbox a Truffle project 
-### 1 (a). Unbox an existing Truffle Project - MetaCoin
+### (a). Unbox an existing Truffle Project - MetaCoin
 - On the Terminal :  ```mkdir MetaCoin```
 - Go to the folder: ```cd MetaCoin```
 - Unbox the Truffle Project : ```truffle unbox metacoin```
 
 ![unbox](https://github.com/LifnaJos/Install_Compile_Test_Deply_Project_on_Truffle/blob/main/images/install_metacoin_project_truffle_unbox.jpg)
 
-### 1 (b) To create a bare project that doesn’t come with any smart contract or boilerplate code, type:  ```truffle init```
+### (b) To create a bare project that doesn’t come with any smart contract or boilerplate code, type:  ```truffle init```
 
 - The following directory structure is created :
 ```
@@ -79,7 +88,8 @@
 
 ![truffle_test](https://github.com/LifnaJos/Install_Compile_Test_Deply_Project_on_Truffle/blob/main/images/truffle_test.jpg)
 
-## Step - 5 a: Deploying the Smart Contract via Truffle Command Line Interface
+## Step - 5 : Deploy Truffle Project
+**a: Deploying the Smart Contract via Truffle Command Line Interface**
 - In the Project folder there is a configuration file : **truffle-config.js**.
 - In this file uncomment the development network parameters and set the port number as **7545** as shown below
 
@@ -116,7 +126,8 @@
 - On Ganache Environment - Events Tab: Contract registered event is reported
 ![ganache](https://github.com/LifnaJos/Install_Compile_Test_Deploy_Project_on_Truffle/blob/main/images/truffle_project_ganache_deploy_4.jpg)
 
-## Step - 5 b: Deploy Project via Truffle Dashboard
+**b: Deploy via Truffle Dashboard**
+
 1. Run the command ```truffle dashboard``` on the VSCode Terminal
 
 ![truffle_dashboard](https://github.com/LifnaJos/Install_Compile_Test_Deploy_Truffle_Project_on_Ganache/blob/main/images/Screenshot%20from%202023-10-19%2020-33-27.png)
@@ -127,7 +138,7 @@
    
 ![ganache](https://github.com/LifnaJos/Install_Compile_Test_Deploy_Truffle_Project_on_Ganache/blob/main/images/truffle_dashboard_1.jpg)
 
-3. Run the commnad ```truffle migrate --network dashboard
+3. Run the commnad ```truffle migrate --network dashboard```
  
 ![ganache](https://github.com/LifnaJos/Install_Compile_Test_Deploy_Truffle_Project_on_Ganache/blob/main/images/truffle_dashboard_2.jpg)
 
@@ -170,8 +181,6 @@
 - The transacrion details are displayed on Etherscan.io : Sepolia Testnet
   
 ![ganache](https://github.com/LifnaJos/Install_Compile_Test_Deploy_Truffle_Project_on_Ganache/blob/main/images/truffle_dashboard_9.jpg)
-
-![ganache]()
 
 ## Acknowledgements
 * [NodeJS](https://nodejs.org/en/download)
