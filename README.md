@@ -79,7 +79,7 @@
 
 ![truffle_test](https://github.com/LifnaJos/Install_Compile_Test_Deply_Project_on_Truffle/blob/main/images/truffle_test.jpg)
 
-## Step - 5 : Deploying the Smart Contract
+## Step - 5 a: Deploying the Smart Contract via Truffle Command Line Interface
 - In the Project folder there is a configuration file : **truffle-config.js**.
 - In this file uncomment the development network parameters and set the port number as **7545** as shown below
 
@@ -113,29 +113,62 @@
 
 ![ganache](https://github.com/LifnaJos/Install_Compile_Test_Deploy_Project_on_Truffle/blob/main/images/truffle_project_ganache_deploy_3.jpg)
 
-- - On Ganache Environment - Events Tab: Contract registered event is reported
+- On Ganache Environment - Events Tab: Contract registered event is reported
 ![ganache](https://github.com/LifnaJos/Install_Compile_Test_Deploy_Project_on_Truffle/blob/main/images/truffle_project_ganache_deploy_4.jpg)
 
+## Step - 5 b: DDeploy Project via Truffle Dashboard
+1. Run the command ```truffle dashboard``` on the VSCode Terminal
+
+![truffle_dashboard]()
+
+- Truffle Dashboard is running on ```http://localhost:24012/rpc```
+
+2. Login to the Metamask Wallet and select the Network as Sepolia Testnet
+   
 ![ganache](https://github.com/LifnaJos/Install_Compile_Test_Deploy_Truffle_Project_on_Ganache/blob/main/images/truffle_dashboard_1.jpg)
 
+3. Run the commnad ```truffle migrate --network dashboard
+ 
 ![ganache](https://github.com/LifnaJos/Install_Compile_Test_Deploy_Truffle_Project_on_Ganache/blob/main/images/truffle_dashboard_2.jpg)
 
+- This command starts to deploy the smart contract : **ConvertLib.sol**
+- On the Truffle Dashboard, there will be a prompt to confirm the deployment of the smart Contract : **ConvertLib.sol**
+- Click the **Confirm button**
+
+![ganache](https://github.com/LifnaJos/Install_Compile_Test_Deploy_Truffle_Project_on_Ganache/blob/main/images/truffle_dashboard_3.jpg)
+
+- Metamask extension will popup for confirmation.
+- Click the **Confirm** button
+  
+![ganache](https://github.com/LifnaJos/Install_Compile_Test_Deploy_Truffle_Project_on_Ganache/blob/main/images/truffle_dashboard_4.jpg)
+
+- The status of the transaction is displayed on the Metamask popup window
+  
+![ganache](https://github.com/LifnaJos/Install_Compile_Test_Deploy_Truffle_Project_on_Ganache/blob/main/images/truffle_dashboard_5.jpg)
+
+- Next the migrate command starts to deploy the smart contract : **MetaCoin.sol**
+- On the Truffle Dashboard, there will be a prompt to confirm the deployment of the smart Contract : **MetaCoin.sol**
+- Click the **Confirm button**
+
+![ganache](https://github.com/LifnaJos/Install_Compile_Test_Deploy_Truffle_Project_on_Ganache/blob/main/images/truffle_dashboard_6.jpg)
+
+- Metamask extension will popup for confirmation.
+- Click the **Confirm** button
+
+![ganache](https://github.com/LifnaJos/Install_Compile_Test_Deploy_Truffle_Project_on_Ganache/blob/main/images/truffle_dashboard_7.jpg)
+
+- The status of the transaction is displayed on the Metamask popup window
+
+![ganache](https://github.com/LifnaJos/Install_Compile_Test_Deploy_Truffle_Project_on_Ganache/blob/main/images/truffle_dashboard_8.jpg)
+
+- Deployment details on the VScode Terminal as follows:
+  
 ![ganache](https://github.com/LifnaJos/Install_Compile_Test_Deploy_Truffle_Project_on_Ganache/blob/main/images/truffle_dashboard_2b.jpg)
 
 ![ganache](https://github.com/LifnaJos/Install_Compile_Test_Deploy_Truffle_Project_on_Ganache/blob/main/images/truffle_dashboard_2c.jpg)
 
-![ganache](https://github.com/LifnaJos/Install_Compile_Test_Deploy_Truffle_Project_on_Ganache/blob/main/images/truffle_dashboard_3.jpg)
-
-![ganache](https://github.com/LifnaJos/Install_Compile_Test_Deploy_Truffle_Project_on_Ganache/blob/main/images/truffle_dashboard_4.jpg)
-
-![ganache](https://github.com/LifnaJos/Install_Compile_Test_Deploy_Truffle_Project_on_Ganache/blob/main/images/truffle_dashboard_5.jpg)
-
-![ganache](https://github.com/LifnaJos/Install_Compile_Test_Deploy_Truffle_Project_on_Ganache/blob/main/images/truffle_dashboard_6.jpg)
-
-![ganache](https://github.com/LifnaJos/Install_Compile_Test_Deploy_Truffle_Project_on_Ganache/blob/main/images/truffle_dashboard_7.jpg)
-
-![ganache](https://github.com/LifnaJos/Install_Compile_Test_Deploy_Truffle_Project_on_Ganache/blob/main/images/truffle_dashboard_8.jpg)
-
+- The transacrion details are displayed on Etherscan.io : Sepolia Testnet
+  
 ![ganache](https://github.com/LifnaJos/Install_Compile_Test_Deploy_Truffle_Project_on_Ganache/blob/main/images/truffle_dashboard_9.jpg)
 
 ![ganache]()
