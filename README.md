@@ -1,4 +1,4 @@
-## Install, Compile, Test and Deploy Truffle Project on Ganache Network (via Truffle CLI) or Sepolia Network (via  Truffle Dashboard
+## Install, Compile, Test and Deploy Truffle Project on Ganache Network (via Truffle CLI) or Sepolia Network (via  Truffle Dashboard)
 
 [1. Installation of Truffle](https://github.com/LifnaJos/Install_Compile_Test_Deploy_Truffle_Project_on_Ganache/tree/main#step---1-installation-of-truffle)
 
