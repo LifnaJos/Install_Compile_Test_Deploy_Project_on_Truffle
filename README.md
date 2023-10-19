@@ -116,9 +116,27 @@
 - - On Ganache Environment - Events Tab: Contract registered event is reported
 ![ganache](https://github.com/LifnaJos/Install_Compile_Test_Deploy_Project_on_Truffle/blob/main/images/truffle_project_ganache_deploy_4.jpg)
 
-![ganache]()
+![ganache](https://github.com/LifnaJos/Install_Compile_Test_Deploy_Truffle_Project_on_Ganache/blob/main/images/truffle_dashboard_1.jpg)
 
-![ganache]()
+![ganache](https://github.com/LifnaJos/Install_Compile_Test_Deploy_Truffle_Project_on_Ganache/blob/main/images/truffle_dashboard_2.jpg)
+
+![ganache](https://github.com/LifnaJos/Install_Compile_Test_Deploy_Truffle_Project_on_Ganache/blob/main/images/truffle_dashboard_2b.jpg)
+
+![ganache](https://github.com/LifnaJos/Install_Compile_Test_Deploy_Truffle_Project_on_Ganache/blob/main/images/truffle_dashboard_2c.jpg)
+
+![ganache](https://github.com/LifnaJos/Install_Compile_Test_Deploy_Truffle_Project_on_Ganache/blob/main/images/truffle_dashboard_3.jpg)
+
+![ganache](https://github.com/LifnaJos/Install_Compile_Test_Deploy_Truffle_Project_on_Ganache/blob/main/images/truffle_dashboard_4.jpg)
+
+![ganache](https://github.com/LifnaJos/Install_Compile_Test_Deploy_Truffle_Project_on_Ganache/blob/main/images/truffle_dashboard_5.jpg)
+
+![ganache](https://github.com/LifnaJos/Install_Compile_Test_Deploy_Truffle_Project_on_Ganache/blob/main/images/truffle_dashboard_6.jpg)
+
+![ganache](https://github.com/LifnaJos/Install_Compile_Test_Deploy_Truffle_Project_on_Ganache/blob/main/images/truffle_dashboard_7.jpg)
+
+![ganache](https://github.com/LifnaJos/Install_Compile_Test_Deploy_Truffle_Project_on_Ganache/blob/main/images/truffle_dashboard_8.jpg)
+
+![ganache](https://github.com/LifnaJos/Install_Compile_Test_Deploy_Truffle_Project_on_Ganache/blob/main/images/truffle_dashboard_9.jpg)
 
 ![ganache]()
 
